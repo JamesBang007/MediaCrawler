@@ -166,3 +166,6 @@ cython_debug/
 /browser_data/
 /data/
 /cache
+
+*/.DS_Store
+_bak_
